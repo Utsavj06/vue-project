@@ -1,6 +1,5 @@
 <template>
-  <div class="lg:h-screen border-dashed border-2 m-0 p-0 ">
-    <!-- <div class="flex flex-col h-4/5 border-dashed border-2 justify-center gap-0.5"> -->
+    <div class="flex flex-col h-screen justify-center gap-0.5">
       <ExHead title='Registration' />
       <div class="flex items-center flex-col gap-2">
         <input class="border-2 lg:h-10" type="email" placeholder="Email Address" />

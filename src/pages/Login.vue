@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col h-5/6 justify-center gap-0.5">
+    <div class="flex flex-col h-screen justify-center gap-0.5">
       <ExHead title="Login" />
       <div class="flex items-center flex-col gap-2">
         <input class="border-2 lg:h-10" type="text" placeholder="UserName" />
